@@ -5,6 +5,7 @@ using System.Web;
 
 namespace JenkinsWebApplication.Models
 {
+    //local
     public class Pizza1
     {
         public int Order_id { get; set; }
